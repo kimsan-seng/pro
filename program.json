@@ -1,0 +1,387 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "218ecdf0a5e42f1c0b0e8ef44a50ea0b068922d1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/218ecdf0a5e42f1c0b0e8ef44a50ea0b068922d1.js?meteor_js_resource=true",
+      "replaceable": false,
+      "size": 1216033,
+      "hash": "218ecdf0a5e42f1c0b0e8ef44a50ea0b068922d1",
+      "sri": "N1kp3sqx9DXQK18KaypcLjDstYvk+tfDbCEwu1jH/xiX6JadsiXL1zl4h/cNrBM6f11IEN9RVAyUUJRetYSKSA=="
+    },
+    {
+      "path": "218ecdf0a5e42f1c0b0e8ef44a50ea0b068922d1.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/218ecdf0a5e42f1c0b0e8ef44a50ea0b068922d1.stats.json?meteor_js_resource=true",
+      "size": 33499,
+      "hash": "3eba81dfedc461b0a404818cdfd3a508873c02c2",
+      "sri": "pbXNqhzci8dhe27IfldyDKOYl8GlF+1hXrgP+9KTWFQ2huA43B5FU88WceARnTAbObN2m+pFTOG1zjyqhSJlmA=="
+    },
+    {
+      "path": "dynamic/node_modules/moment/package.json",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/node_modules/moment/package.json?hash=17f16c7c0932d24fa71b44a3ab1b29dd4ff3216a",
+      "replaceable": false,
+      "size": 87,
+      "hash": "17f16c7c0932d24fa71b44a3ab1b29dd4ff3216a",
+      "sri": "2nAAvfi68jzVMJAqtzOz9Yz52jchD7Myx+S/Wt/5b/yLoFCSTVtPsXETP9nrZNbVBVF3cdACvbJPlmXQSw+jJg=="
+    },
+    {
+      "path": "dynamic/node_modules/moment/moment.js",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/node_modules/moment/moment.js?hash=ac67d776451c326ee165786a7a6db9403a31f319",
+      "replaceable": false,
+      "size": 61443,
+      "hash": "ac67d776451c326ee165786a7a6db9403a31f319",
+      "sri": "wODwZhfXzevfdd5WKhQyueZ+Lw8+8vpggpLozt1lk0T0KnsoPVeO/5XtTZ6kmeOdnpcWZER6wcUpwyyprsTnMg=="
+    },
+    {
+      "path": "dynamic/node_modules/print-js/package.json",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/node_modules/print-js/package.json?hash=9670b44b85b6ac3fd04c8555dce435cca6ec70d2",
+      "replaceable": false,
+      "size": 90,
+      "hash": "9670b44b85b6ac3fd04c8555dce435cca6ec70d2",
+      "sri": "wgERWpCNzU5hWYz6R/uOy4BAV97BA5nc2OXYkgDbeOgmz1xi5U0luCht3kzW2aOi5GrWVbE/zEuKTBkSo8QOcw=="
+    },
+    {
+      "path": "dynamic/node_modules/print-js/dist/print.js",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/node_modules/print-js/dist/print.js?hash=4154bd7535a6175eec773bea715fcf335e1c35ce",
+      "replaceable": false,
+      "size": 16658,
+      "hash": "4154bd7535a6175eec773bea715fcf335e1c35ce",
+      "sri": "hJu0GY0cLjgUjxwS19qiH9KbKoPKmGRmVhy7EMzVDATrkwUvXmTc8N5ieAa5iTInK+OK93sYvEHiXiaRtOsMtA=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/CategoryForm.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/CategoryForm.vue?hash=70b63801f20f67c4773fbe52eb59c38c5228279d",
+      "replaceable": false,
+      "size": 1992,
+      "hash": "70b63801f20f67c4773fbe52eb59c38c5228279d",
+      "sri": "zuYGdJFkJiZW4iHzYWQv8hFzLZcGeVgradOWdVF871y4Jo6INDcSubBkFFJ//8LyDsyIUTt4fOh29sMoFJhdiA=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/CategoryTable.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/CategoryTable.vue?hash=d7985c68ddbc3e5e5994a163d523106ae49d8c36",
+      "replaceable": false,
+      "size": 1648,
+      "hash": "d7985c68ddbc3e5e5994a163d523106ae49d8c36",
+      "sri": "RMaeYwC/pBto7sHLA9ot1++h62Vl8NigyYoY4iDWT6vxnS8h0QGauGedlX8vrZWJEEmMCsb7JBTF7/LjiZ1Vtw=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/CustomerForm.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/CustomerForm.vue?hash=784bf6049a11f41e6bc0157730eec848025e2ff0",
+      "replaceable": false,
+      "size": 3304,
+      "hash": "784bf6049a11f41e6bc0157730eec848025e2ff0",
+      "sri": "OzsG1YKt/0d3TGZgVtPIPdQ2pUQwZloG9WCkbTBgRleQepTTvmAYfhClX3lUmfulSB8gchad8WAXUmcfU9k/RA=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/CustomerTable.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/CustomerTable.vue?hash=02537b0c6baa64d66dfb713cc467b2a71e78fdd5",
+      "replaceable": false,
+      "size": 2036,
+      "hash": "02537b0c6baa64d66dfb713cc467b2a71e78fdd5",
+      "sri": "bXGA9JHPZ5522hE3sHaxUe2PpHOBENEYX3zNE0sj1ZKcht0ZGcdG+lBZadNBcxqHogZfbDdVmSBL8Rhrp+zqUg=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/FormSearchByDate.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/FormSearchByDate.vue?hash=429f5123dba57f5db55a16599546155d2176df66",
+      "replaceable": false,
+      "size": 2460,
+      "hash": "429f5123dba57f5db55a16599546155d2176df66",
+      "sri": "nCZIxfIHiUz3RB4B5DY0MMJjRnnuFvwT+9vQukHN+oZXZymZpqwUfwyQiI09oL4GT7dTs2ER9T3NGbAzWd342g=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/ItemForm.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/ItemForm.vue?hash=f22773d646fd79dbce8a820b4388669afa4bee4d",
+      "replaceable": false,
+      "size": 2926,
+      "hash": "f22773d646fd79dbce8a820b4388669afa4bee4d",
+      "sri": "MIwh26v6YzxDg2nEwiAPW2KBIBSc4DzSAxCDlp6XbaKNt4g8nqdWFiF0FAKIBWAfomXfeSQCaqFj8KXoWNJGlw=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/ItemTable.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/ItemTable.vue?hash=4cf5247196e7659e26275afaa64fc0b6a8699833",
+      "replaceable": false,
+      "size": 1898,
+      "hash": "4cf5247196e7659e26275afaa64fc0b6a8699833",
+      "sri": "Qida5WLTEHO84aCXlEQKG7UG0uUlMbjzTCMXwHJeMYIdPXmh5qIXcm3cfEqF09cKwbZg1B4ICfZpPHcTgB+Ihg=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/PrintInvoice.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/PrintInvoice.vue?hash=f993cc3edb9f13182dad93e22462e6c382daa41d",
+      "replaceable": false,
+      "size": 2298,
+      "hash": "f993cc3edb9f13182dad93e22462e6c382daa41d",
+      "sri": "ZPUjQAZFlHNIyxS4N97YfdCzJXUWHpijoAr7sJlM4+vOkWZiuMC6lJqaoi0Ck35qHIPkkIb8mVzadYD9f0C+ZA=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/PurchaseForm.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/PurchaseForm.vue?hash=fd58b07122edfb27d25ef8aed54164bd32ed58a4",
+      "replaceable": false,
+      "size": 3904,
+      "hash": "fd58b07122edfb27d25ef8aed54164bd32ed58a4",
+      "sri": "xjPqhn3mFa1e0/eiTNzXYx0BUIc19o1fO8h/wOqP2BY5Z1pBDphIhoQhYtCoMcyBQEu1/rFd+Ek/M0xwzKBblw=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/PurchaseTable.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/PurchaseTable.vue?hash=d15f1391c48f6a0ddf12cc35f6c755e0df7416d0",
+      "replaceable": false,
+      "size": 1528,
+      "hash": "d15f1391c48f6a0ddf12cc35f6c755e0df7416d0",
+      "sri": "+Q+ed+0Ua2mXEug16GZCMx7jzHpVhBOa9y+cXXdQ3YwkULMliyM8223RaPF6kob/uiTYgTOSBQiED9Y6Ap0wNA=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/SupplierForm.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/SupplierForm.vue?hash=b0047f0bc2865b26121186597949abd72331905f",
+      "replaceable": false,
+      "size": 2871,
+      "hash": "b0047f0bc2865b26121186597949abd72331905f",
+      "sri": "R1dfxIRjqSbS5ipJjwAgl4WnorObh5eCqJ3KQANbtFS+E2OudwEGBn69V2wxVuM+dEmGy2pd/JHWXLMkzw0KhQ=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/SupplierTable.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/SupplierTable.vue?hash=8d0a544f4b333f5d406af67b01abd2b2462e00c6",
+      "replaceable": false,
+      "size": 1787,
+      "hash": "8d0a544f4b333f5d406af67b01abd2b2462e00c6",
+      "sri": "QpeiCs6KXAE8t0a69sXrOHLffaCCpR9EHqU3znip5jIg7vEP7d0AnM5OXN/C/mDw8FLvMX/vOT7AhBYHSd5mwA=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/UserForm.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/UserForm.vue?hash=e7a64e57395145bbce46cef956961f5612da1211",
+      "replaceable": false,
+      "size": 2968,
+      "hash": "e7a64e57395145bbce46cef956961f5612da1211",
+      "sri": "1xz2QzhNdin+ai2MjpZ9jgPkYd8XqmAOOWDAaoLgt32mQcxP7PkwKDf1TM/okM6s2OAu2lq3nwXb6aA9rVs+ZA=="
+    },
+    {
+      "path": "dynamic/imports/ui/components/UserTable.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/components/UserTable.vue?hash=34898de3fb88fbd1816bc19d8b01fc3b9bc0a5fe",
+      "replaceable": false,
+      "size": 1697,
+      "hash": "34898de3fb88fbd1816bc19d8b01fc3b9bc0a5fe",
+      "sri": "+4M2MZQOqkN0TuPkwYMWQRYVRQQAVFkSM4yyePO25DJPOpzMid4pYHN+SsQDafmv0mFXTpP3LPcZR5957Ms4eg=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Category.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Category.vue?hash=1743baa2d46fe94180408bff825e8188f3d81571",
+      "replaceable": false,
+      "size": 1988,
+      "hash": "1743baa2d46fe94180408bff825e8188f3d81571",
+      "sri": "pGnCfu0L4RAeS7hiFjLIIw0yy2J5UMO/qVQclNgGPTYEfTPW+kTFmMBq/doDuqWB2s7SDk/cPW6dJFlmzeE6RA=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Customer.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Customer.vue?hash=1aa9828370cc156969dda47cebaba726fbdf4eb0",
+      "replaceable": false,
+      "size": 1955,
+      "hash": "1aa9828370cc156969dda47cebaba726fbdf4eb0",
+      "sri": "8opELlWd3moPGq2HKIITPdsR3vuAjIjwTkK/otrTLa9GK3oCqFq59+v/hYwsjaWUdZ02MZhszO37B7D00kjKJg=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Export.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Export.vue?hash=2128814920d7b0c5ca0d5a5029db7eb72202d281",
+      "replaceable": false,
+      "size": 2061,
+      "hash": "2128814920d7b0c5ca0d5a5029db7eb72202d281",
+      "sri": "0WssPrV0OcgH3YVyIpVy2qYRwbFtbX39/4je97uCwYNABaVTSuVXfy3ZUrfsiHh2rCCEQwxqTJrCZUGNRUpwoA=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Home.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Home.vue?hash=072756516d59e9a13d6bfcf76b332df4355fabb6",
+      "replaceable": false,
+      "size": 3126,
+      "hash": "072756516d59e9a13d6bfcf76b332df4355fabb6",
+      "sri": "Di3SNJu3lQi0AqIsqkud/3Fwr1PZO5WoLQ2QUO06b5P5sIIwgfIxrvOZmDLvPlcTxEJECSE3cggYOk22odX2+Q=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Import.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Import.vue?hash=d4099342038d7206ac4594bf1384704d381dc003",
+      "replaceable": false,
+      "size": 2428,
+      "hash": "d4099342038d7206ac4594bf1384704d381dc003",
+      "sri": "jLbg3/P8rPRQQfRFOleECd7eGR1uwwEX6SZ8kdYo+IqkOps/OWxc+KDw85Y7CP++QdbaSBrzWCqQ7ODc4FRHZw=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Item.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Item.vue?hash=fc60dad4e3f42f630aa56e8a1a8adc57a4e91e0c",
+      "replaceable": false,
+      "size": 1932,
+      "hash": "fc60dad4e3f42f630aa56e8a1a8adc57a4e91e0c",
+      "sri": "AWXO3PBTZobVdpPbgIqfQAqTgS/7POo96VnzGV5jhDHmkPdsNucrx1z7Fgp2BZ1aylLcGceG+3spWej0gbDQ5Q=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Login.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Login.vue?hash=e12f7b1fa8ea5353e5292fd3d4984afbe6de33c8",
+      "replaceable": false,
+      "size": 1579,
+      "hash": "e12f7b1fa8ea5353e5292fd3d4984afbe6de33c8",
+      "sri": "1Fii8oOcoYRowi1eKNfwCSdAnjxzFEVfHtWEaeL9WEUejglDdCK7BHPauvF9H5wlJHty5N7INoS0j27EKkqr2w=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Purchase.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Purchase.vue?hash=24f5e326531a38bd65603caaeeb723aed3419a58",
+      "replaceable": false,
+      "size": 1574,
+      "hash": "24f5e326531a38bd65603caaeeb723aed3419a58",
+      "sri": "BxJniJVM629rOpOnHAZIojfcfXHrFv5K1ae5nisdk9QuOLD2/Zi5ir32Hu7WC5cgYh0Mxp6hv/WQWz8hUSWrVQ=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Sale.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Sale.vue?hash=fdc4183c325f4086185d47f3f5fb3058f320090b",
+      "replaceable": false,
+      "size": 5655,
+      "hash": "fdc4183c325f4086185d47f3f5fb3058f320090b",
+      "sri": "vZmYkzIvbWW0nPfF2KW6czmChj3e0Qgt1koP1CwvUnd5CYmrNn8wgEnwCVMTcc8wu66d2CVr49E1QB3ewUNXDw=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/Supplier.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/Supplier.vue?hash=f19c60cd3c0bc93cd9219e578b8c343c9e671b6a",
+      "replaceable": false,
+      "size": 1927,
+      "hash": "f19c60cd3c0bc93cd9219e578b8c343c9e671b6a",
+      "sri": "zM76hchhz6mkRU94PByKX0aMDTn7762LR1JIAa3yQiL1bi5qJQJJ9jW2NoyhrFZ8+OWrl+/lD8YoVJDTvAZ3gA=="
+    },
+    {
+      "path": "dynamic/imports/ui/pages/User.vue",
+      "where": "client",
+      "type": "dynamic js",
+      "cacheable": true,
+      "url": "/dynamic/imports/ui/pages/User.vue?hash=d0da2e24faa9e3b6d53efd926b27d3354f4afcec",
+      "replaceable": false,
+      "size": 1877,
+      "hash": "d0da2e24faa9e3b6d53efd926b27d3354f4afcec",
+      "sri": "tJXVpgID46GglALIVP0vWGPaV18C0J/oB0EUCXNqMkuSuh/6Q1WcpICbE9+CohveE/g8K2TDuoKz38UAN039fA=="
+    },
+    {
+      "path": "6fb7362533327c7d801a9a4c7e0d723ff85bed80.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/6fb7362533327c7d801a9a4c7e0d723ff85bed80.css?meteor_css_resource=true",
+      "size": 565,
+      "hash": "6fb7362533327c7d801a9a4c7e0d723ff85bed80",
+      "sri": "wR9yYu/WfmSNK4UZRuMDbQLz3NDymnUaK5q9XdewayL/LuSF6GjZESECn3RFnNoxzKYTQdh84/PYh4AjiPrqWg=="
+    },
+    {
+      "path": "packages/promise/promise.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/promise/promise.d.ts",
+      "size": 633,
+      "hash": "4aa461da7ad90c74a51ddfccc84b055fc0403119",
+      "sri": "6MVw86BmnkmTtXXlCxaH8k7xIUcMZK4O57Nnu82uI5MJT9Fbru7Yv71SuHx+giKUM9wkRs7WkpqPWjADS+U2qw=="
+    },
+    {
+      "path": "packages/tracker/tracker.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/tracker/tracker.d.ts",
+      "size": 6096,
+      "hash": "93ebe1d7d6aed2b029129079014e3ebfd5e8bb8c",
+      "sri": "D7pwjdFz5YPTxAyDXrqMNZ9v65eWU+XZ8ASp8aLJaTSkoBScGaLOCxlnSzLKyfsYugreqjaynnaiUGpNhW/ldw=="
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "6a0c7ffc6559c855b967da578c2dac0d18d2ffa5"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "1b433f33b806b0ddfe84c13b41b6b68881ee49ec"
+    }
+  ]
+}

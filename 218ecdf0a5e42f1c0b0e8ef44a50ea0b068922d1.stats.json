@@ -1,0 +1,1162 @@
+{
+  "minifier": {
+    "name": "standard-minifier-js",
+    "version": "2.8.1"
+  },
+  "totalMinifiedBytes": 1216033,
+  "totalMinifiedGzipBytes": 312888,
+  "minifiedBytesByPackage": {
+    "packages/meteor.js": 10123,
+    "packages/meteor-base.js": 31,
+    "packages/mobile-experience.js": 37,
+    "packages/modules-runtime.js": 5179,
+    "packages/modules.js": [
+      951512,
+      {
+        "node_modules": {
+          "meteor": {
+            "modules": {
+              "client.js": 126,
+              "css.js": 263,
+              "install-packages.js": 1719,
+              "process.js": 415,
+              "reify.js": 83,
+              "stubs.js": 99,
+              "node_modules": {
+                "@meteorjs": {
+                  "reify": {
+                    "lib": {
+                      "runtime": {
+                        "index.js": 954,
+                        "utils.js": 1309,
+                        "entry.js": 3503
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "@quasar": {
+            "extras": {
+              "material-icons": {
+                "material-icons.css": 627
+              }
+            }
+          },
+          "quasar": {
+            "dist": {
+              "quasar.min.css": 201444
+            },
+            "package.json": 2517,
+            "src": {
+              "index.esm.js": 437,
+              "vue-plugin.js": 319,
+              "install.js": 1300,
+              "plugins": {
+                "Platform.js": 4202,
+                "Screen.js": 2019,
+                "Dark.js": 1362,
+                "AddressbarColor.js": 979,
+                "AppFullscreen.js": 1467,
+                "AppVisibility.js": 636,
+                "BottomSheet.js": 228,
+                "Cookies.js": 2150,
+                "Dialog.js": 218,
+                "LoadingBar.js": 906,
+                "Loading.js": 1628,
+                "Meta.js": 4300,
+                "Notify.js": 7924,
+                "LocalStorage.js": 296,
+                "SessionStorage.js": 300
+              },
+              "utils": {
+                "event.js": 2679,
+                "debounce.js": 246,
+                "colors.js": 5003,
+                "key-composition.js": 286,
+                "format.js": 677,
+                "cache.js": 577,
+                "slot.js": 453,
+                "dom.js": 1101,
+                "throttle.js": 162,
+                "selection.js": 377,
+                "focus-manager.js": 377,
+                "vm.js": 267,
+                "scroll.js": 2857,
+                "escape-key.js": 576,
+                "position-engine.js": 3580,
+                "touch.js": 723,
+                "is.js": 1806,
+                "patterns.js": 1013,
+                "date-persian.js": 1929,
+                "date.js": 10180,
+                "extend.js": 892,
+                "uid.js": 776,
+                "frame-debounce.js": 226,
+                "clone.js": 102,
+                "sort.js": 339,
+                "router.js": 702,
+                "morph.js": 15211,
+                "global-dialog.js": 1356,
+                "web-storage.js": 1501,
+                "copy-to-clipboard.js": 389,
+                "export-file.js": 485,
+                "open-url.js": 935
+              },
+              "history.js": 1456,
+              "lang.js": 1223,
+              "body.js": 1671,
+              "icon-set.js": 647,
+              "ssr-update.js": 411,
+              "components.js": 4257,
+              "components": {
+                "ajax-bar": {
+                  "index.js": 95,
+                  "QAjaxBar.js": 2985
+                },
+                "avatar": {
+                  "index.js": 93,
+                  "QAvatar.js": 981
+                },
+                "icon": {
+                  "QIcon.js": 2620,
+                  "index.js": 89
+                },
+                "badge": {
+                  "index.js": 91,
+                  "QBadge.js": 1143
+                },
+                "banner": {
+                  "index.js": 93,
+                  "QBanner.js": 968
+                },
+                "bar": {
+                  "index.js": 87,
+                  "QBar.js": 579
+                },
+                "breadcrumbs": {
+                  "index.js": 176,
+                  "QBreadcrumbs.js": 1368,
+                  "QBreadcrumbsEl.js": 878
+                },
+                "btn": {
+                  "index.js": 87,
+                  "QBtn.js": 5674
+                },
+                "spinner": {
+                  "QSpinner.js": 555,
+                  "spinner-mixin.js": 348,
+                  "index.js": 1668,
+                  "QSpinnerAudio.js": 1331,
+                  "QSpinnerBall.js": 1452,
+                  "QSpinnerBars.js": 2252,
+                  "QSpinnerBox.js": 882,
+                  "QSpinnerClock.js": 1107,
+                  "QSpinnerComment.js": 1300,
+                  "QSpinnerCube.js": 1885,
+                  "QSpinnerDots.js": 1435,
+                  "QSpinnerFacebook.js": 1468,
+                  "QSpinnerGears.js": 2730,
+                  "QSpinnerGrid.js": 2105,
+                  "QSpinnerHearts.js": 1493,
+                  "QSpinnerHourglass.js": 2066,
+                  "QSpinnerInfinity.js": 825,
+                  "QSpinnerIos.js": 3091,
+                  "QSpinnerOrbit.js": 779,
+                  "QSpinnerOval.js": 761,
+                  "QSpinnerPie.js": 1355,
+                  "QSpinnerPuff.js": 1281,
+                  "QSpinnerRadio.js": 1170,
+                  "QSpinnerRings.js": 1530,
+                  "QSpinnerTail.js": 1220
+                },
+                "btn-dropdown": {
+                  "index.js": 103,
+                  "QBtnDropdown.js": 3429
+                },
+                "btn-group": {
+                  "QBtnGroup.js": 693,
+                  "index.js": 97
+                },
+                "menu": {
+                  "QMenu.js": 5332,
+                  "ClickOutside.js": 2034,
+                  "index.js": 89
+                },
+                "btn-toggle": {
+                  "index.js": 99,
+                  "QBtnToggle.js": 2471
+                },
+                "card": {
+                  "index.js": 227,
+                  "QCard.js": 702,
+                  "QCardSection.js": 513,
+                  "QCardActions.js": 540
+                },
+                "carousel": {
+                  "index.js": 247,
+                  "QCarousel.js": 4862,
+                  "QCarouselSlide.js": 456,
+                  "QCarouselControl.js": 730
+                },
+                "chat": {
+                  "index.js": 103,
+                  "QChatMessage.js": 2723
+                },
+                "checkbox": {
+                  "index.js": 97,
+                  "QCheckbox.js": 581
+                },
+                "chip": {
+                  "index.js": 89,
+                  "QChip.js": 3067
+                },
+                "circular-progress": {
+                  "index.js": 113,
+                  "QCircularProgress.js": 3065
+                },
+                "color": {
+                  "index.js": 91,
+                  "QColor.js": 14802
+                },
+                "slider": {
+                  "QSlider.js": 3708,
+                  "slider-utils.js": 4512,
+                  "index.js": 93
+                },
+                "tabs": {
+                  "QTabs.js": 8393,
+                  "QTab.js": 3263,
+                  "index.js": 205,
+                  "QRouteTab.js": 1975
+                },
+                "resize-observer": {
+                  "QResizeObserver.js": 2221,
+                  "index.js": 109
+                },
+                "tab-panels": {
+                  "QTabPanels.js": 491,
+                  "QTabPanel.js": 323,
+                  "index.js": 162
+                },
+                "date": {
+                  "index.js": 89,
+                  "QDate.js": 22564
+                },
+                "dialog": {
+                  "index.js": 93,
+                  "QDialog.js": 6371
+                },
+                "drawer": {
+                  "index.js": 93,
+                  "QDrawer.js": 11398
+                },
+                "editor": {
+                  "index.js": 93,
+                  "QEditor.js": 10851,
+                  "editor-utils.js": 4311,
+                  "editor-caret.js": 4845
+                },
+                "tooltip": {
+                  "QTooltip.js": 4001,
+                  "index.js": 95
+                },
+                "item": {
+                  "QList.js": 681,
+                  "QItem.js": 2553,
+                  "QItemSection.js": 759,
+                  "QItemLabel.js": 815,
+                  "index.js": 278
+                },
+                "expansion-item": {
+                  "index.js": 107,
+                  "QExpansionItem.js": 5182
+                },
+                "slide-transition": {
+                  "QSlideTransition.js": 1784,
+                  "index.js": 111
+                },
+                "separator": {
+                  "QSeparator.js": 1338,
+                  "index.js": 99
+                },
+                "fab": {
+                  "index.js": 152,
+                  "QFab.js": 2146,
+                  "QFabAction.js": 1270
+                },
+                "field": {
+                  "index.js": 91,
+                  "QField.js": 10221
+                },
+                "file": {
+                  "index.js": 89,
+                  "QFile.js": 3819
+                },
+                "footer": {
+                  "index.js": 93,
+                  "QFooter.js": 3606
+                },
+                "form": {
+                  "index.js": 89,
+                  "QForm.js": 2380
+                },
+                "header": {
+                  "index.js": 93,
+                  "QHeader.js": 3075
+                },
+                "img": {
+                  "index.js": 87,
+                  "QImg.js": 4166
+                },
+                "infinite-scroll": {
+                  "index.js": 109,
+                  "QInfiniteScroll.js": 3102
+                },
+                "inner-loading": {
+                  "index.js": 105,
+                  "QInnerLoading.js": 798
+                },
+                "input": {
+                  "index.js": 91,
+                  "QInput.js": 5369
+                },
+                "intersection": {
+                  "index.js": 105,
+                  "QIntersection.js": 1415
+                },
+                "knob": {
+                  "index.js": 89,
+                  "QKnob.js": 3742
+                },
+                "layout": {
+                  "index.js": 93,
+                  "QLayout.js": 3169
+                },
+                "scroll-observer": {
+                  "QScrollObserver.js": 1696,
+                  "index.js": 109
+                },
+                "markup-table": {
+                  "index.js": 103,
+                  "QMarkupTable.js": 1004
+                },
+                "no-ssr": {
+                  "index.js": 91,
+                  "QNoSsr.js": 691
+                },
+                "option-group": {
+                  "index.js": 103,
+                  "QOptionGroup.js": 1943
+                },
+                "radio": {
+                  "QRadio.js": 2799,
+                  "index.js": 91
+                },
+                "toggle": {
+                  "QToggle.js": 814,
+                  "index.js": 93
+                },
+                "page": {
+                  "index.js": 162,
+                  "QPage.js": 998,
+                  "QPageContainer.js": 885
+                },
+                "page-scroller": {
+                  "index.js": 105,
+                  "QPageScroller.js": 1687
+                },
+                "page-sticky": {
+                  "QPageSticky.js": 1870,
+                  "index.js": 101
+                },
+                "pagination": {
+                  "index.js": 101,
+                  "QPagination.js": 5565
+                },
+                "parallax": {
+                  "index.js": 97,
+                  "QParallax.js": 3034
+                },
+                "popup-edit": {
+                  "index.js": 99,
+                  "QPopupEdit.js": 3100
+                },
+                "popup-proxy": {
+                  "index.js": 101,
+                  "QPopupProxy.js": 1996
+                },
+                "linear-progress": {
+                  "index.js": 109,
+                  "QLinearProgress.js": 2246
+                },
+                "pull-to-refresh": {
+                  "index.js": 107,
+                  "QPullToRefresh.js": 3219
+                },
+                "range": {
+                  "index.js": 91,
+                  "QRange.js": 7833
+                },
+                "rating": {
+                  "index.js": 93,
+                  "QRating.js": 3919
+                },
+                "responsive": {
+                  "index.js": 101,
+                  "QResponsive.js": 542
+                },
+                "scroll-area": {
+                  "index.js": 101,
+                  "QScrollArea.js": 5480
+                },
+                "select": {
+                  "index.js": 93,
+                  "QSelect.js": 23452
+                },
+                "skeleton": {
+                  "index.js": 97,
+                  "QSkeleton.js": 1321
+                },
+                "slide-item": {
+                  "index.js": 99,
+                  "QSlideItem.js": 3734
+                },
+                "space": {
+                  "index.js": 91,
+                  "QSpace.js": 245
+                },
+                "splitter": {
+                  "index.js": 97,
+                  "QSplitter.js": 3757
+                },
+                "stepper": {
+                  "index.js": 231,
+                  "QStep.js": 1449,
+                  "StepHeader.js": 3205,
+                  "QStepper.js": 2057,
+                  "QStepperNavigation.js": 331
+                },
+                "table": {
+                  "index.js": 244,
+                  "QTable.js": 6529,
+                  "table-top.js": 1180,
+                  "table-header.js": 1987,
+                  "QTh.js": 988,
+                  "table-body.js": 2846,
+                  "table-bottom.js": 3466,
+                  "table-grid.js": 1843,
+                  "get-table-middle.js": 192,
+                  "table-sort.js": 1263,
+                  "table-filter.js": 410,
+                  "table-pagination.js": 2236,
+                  "table-row-selection.js": 1100,
+                  "table-row-expand.js": 525,
+                  "table-column-selection.js": 1232,
+                  "QTr.js": 492,
+                  "QTd.js": 753
+                },
+                "virtual-scroll": {
+                  "QVirtualScroll.js": 2850,
+                  "index.js": 107
+                },
+                "time": {
+                  "index.js": 89,
+                  "QTime.js": 13686
+                },
+                "timeline": {
+                  "index.js": 170,
+                  "QTimeline.js": 783,
+                  "QTimelineEntry.js": 1811
+                },
+                "toolbar": {
+                  "index.js": 166,
+                  "QToolbar.js": 404,
+                  "QToolbarTitle.js": 431
+                },
+                "tree": {
+                  "index.js": 89,
+                  "QTree.js": 10008
+                },
+                "uploader": {
+                  "index.js": 251,
+                  "QUploader.js": 224,
+                  "QUploaderBase.js": 7312,
+                  "uploader-xhr-mixin.js": 3397,
+                  "QUploaderAddTrigger.js": 270
+                },
+                "video": {
+                  "index.js": 91,
+                  "QVideo.js": 552
+                },
+                "dialog-bottom-sheet": {
+                  "BottomSheet.js": 2638
+                },
+                "dialog-plugin": {
+                  "DialogPlugin.js": 4937
+                }
+              },
+              "mixins": {
+                "attrs.js": 183,
+                "size.js": 288,
+                "tag.js": 77,
+                "listeners.js": 128,
+                "dark.js": 155,
+                "align.js": 384,
+                "router-link.js": 575,
+                "btn.js": 2974,
+                "ripple.js": 169,
+                "anchor.js": 3290,
+                "model-toggle.js": 1623,
+                "timeout.js": 448,
+                "portal.js": 2460,
+                "transition.js": 404,
+                "form.js": 401,
+                "panel.js": 4043,
+                "fullscreen.js": 1361,
+                "checkbox.js": 3446,
+                "option-size.js": 121,
+                "refocus-target.js": 474,
+                "can-render.js": 172,
+                "datetime.js": 1525,
+                "history.js": 389,
+                "prevent-scroll.js": 2783,
+                "fab.js": 1365,
+                "validate.js": 2427,
+                "file.js": 2599,
+                "ratio.js": 176,
+                "mask.js": 7558,
+                "composition.js": 675,
+                "virtual-scroll.js": 11969
+              },
+              "directives": {
+                "Ripple.js": 2620,
+                "TouchSwipe.js": 3387,
+                "TouchPan.js": 5220,
+                "Intersection.js": 1156,
+                "ClosePopup.js": 956,
+                "GoBack.js": 905,
+                "Morph.js": 2288,
+                "Mutation.js": 857,
+                "ScrollFire.js": 1214,
+                "Scroll.js": 906,
+                "TouchHold.js": 2450,
+                "TouchRepeat.js": 3598
+              },
+              "directives.js": 910,
+              "plugins.js": 1106,
+              "utils.js": 1175
+            },
+            "lang": {
+              "en-us.js": 1933
+            },
+            "icon-set": {
+              "material-icons.js": 2118
+            }
+          },
+          "@babel": {
+            "runtime": {
+              "helpers": {
+                "objectSpread2.js": 688,
+                "defineProperty.js": 237,
+                "toPropertyKey.js": 204,
+                "typeof.js": 374,
+                "toPrimitive.js": 365,
+                "objectWithoutProperties.js": 368,
+                "objectWithoutPropertiesLoose.js": 216
+              }
+            }
+          },
+          "vue": {
+            "package.json": 125,
+            "dist": {
+              "vue.runtime.esm.js": 80948
+            }
+          },
+          "vue-meteor-tracker": {
+            "package.json": 100,
+            "dist": {
+              "index.js": 2464
+            }
+          },
+          "vue-router": {
+            "package.json": 129,
+            "dist": {
+              "vue-router.esm.js": 29847
+            }
+          },
+          "moment": {
+            "package.json": 22,
+            "moment.js": 2
+          },
+          "print-js": {
+            "package.json": 24,
+            "dist": {
+              "print.js": 2
+            }
+          },
+          "meteor-node-stubs": {
+            "package.json": 87,
+            "index.js": 418,
+            "map.json": 1008,
+            "deps": {
+              "process.js": 38
+            },
+            "node_modules": {
+              "process": {
+                "browser.js": 1688
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/modern-browsers.js": 35,
+    "packages/babel-compiler.js": 34,
+    "packages/react-fast-refresh.js": [
+      2931,
+      {
+        "node_modules": {
+          "meteor": {
+            "react-fast-refresh": {
+              "client.js": 332,
+              "client-runtime.js": 1364,
+              "node_modules": {
+                "react-refresh": {
+                  "runtime.js": 92,
+                  "cjs": {
+                    "react-refresh-runtime.production.min.js": 366,
+                    "react-refresh-runtime.development.js": 282
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/ecmascript.js": 30,
+    "packages/ecmascript-runtime.js": 38,
+    "packages/babel-runtime.js": 33,
+    "packages/promise.js": [
+      1339,
+      {
+        "node_modules": {
+          "meteor": {
+            "promise": {
+              "modern.js": 25,
+              "client.js": 73,
+              "extensions.js": 403,
+              "node_modules": {
+                "meteor-promise": {
+                  "package.json": 121,
+                  "promise_client.js": 268
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/fetch.js": [
+      410,
+      {
+        "node_modules": {
+          "meteor": {
+            "fetch": {
+              "modern.js": 94
+            }
+          }
+        }
+      }
+    ],
+    "packages/dynamic-import.js": [
+      6939,
+      {
+        "node_modules": {
+          "meteor": {
+            "dynamic-import": {
+              "client.js": 1923,
+              "cache.js": 1952,
+              "common.js": 62,
+              "dynamic-versions.js": 2599
+            }
+          }
+        }
+      }
+    ],
+    "packages/es5-shim.js": 28,
+    "packages/ecmascript-runtime-client.js": [
+      22393,
+      {
+        "node_modules": {
+          "meteor": {
+            "ecmascript-runtime-client": {
+              "modern.js": 766,
+              "node_modules": {
+                "core-js": {
+                  "modules": {
+                    "es.object.get-own-property-descriptors.js": 414,
+                    "es.object.is.js": 108,
+                    "es.function.name.js": 274,
+                    "es.number.is-finite.js": 120,
+                    "es.number.is-nan.js": 107,
+                    "es.array.flat.js": 404,
+                    "es.array.flat-map.js": 401,
+                    "es.object.from-entries.js": 232,
+                    "es.string.pad-start.js": 256,
+                    "es.string.pad-end.js": 252,
+                    "es.string.trim-start.js": 260,
+                    "es.string.trim-end.js": 253,
+                    "es.symbol.async-iterator.js": 80
+                  },
+                  "internals": {
+                    "export.js": 612,
+                    "global.js": 264,
+                    "object-get-own-property-descriptor.js": 428,
+                    "descriptors.js": 144,
+                    "fails.js": 76,
+                    "object-property-is-enumerable.js": 178,
+                    "create-property-descriptor.js": 113,
+                    "to-indexed-object.js": 140,
+                    "indexed-object.js": 225,
+                    "classof-raw.js": 88,
+                    "require-object-coercible.js": 104,
+                    "to-primitive.js": 354,
+                    "is-object.js": 96,
+                    "has.js": 136,
+                    "to-object.js": 110,
+                    "ie8-dom-define.js": 231,
+                    "document-create-element.js": 173,
+                    "create-non-enumerable-property.js": 229,
+                    "object-define-property.js": 359,
+                    "an-object.js": 140,
+                    "redefine.js": 684,
+                    "set-global.js": 163,
+                    "inspect-source.js": 185,
+                    "shared-store.js": 131,
+                    "internal-state.js": 968,
+                    "native-weak-map.js": 153,
+                    "shared-key.js": 133,
+                    "shared.js": 259,
+                    "is-pure.js": 31,
+                    "uid.js": 131,
+                    "hidden-keys.js": 31,
+                    "copy-constructor-properties.js": 279,
+                    "own-keys.js": 284,
+                    "get-built-in.js": 222,
+                    "path.js": 61,
+                    "object-get-own-property-names.js": 187,
+                    "object-keys-internal.js": 306,
+                    "array-includes.js": 363,
+                    "to-length.js": 125,
+                    "to-integer.js": 104,
+                    "to-absolute-index.js": 138,
+                    "enum-bug-keys.js": 138,
+                    "object-get-own-property-symbols.js": 49,
+                    "is-forced.js": 279,
+                    "create-property.js": 226,
+                    "same-value.js": 96,
+                    "number-is-finite.js": 133,
+                    "flatten-into-array.js": 399,
+                    "is-array.js": 114,
+                    "function-bind-context.js": 358,
+                    "a-function.js": 122,
+                    "array-species-create.js": 320,
+                    "well-known-symbol.js": 359,
+                    "native-symbol.js": 232,
+                    "engine-v8-version.js": 266,
+                    "engine-user-agent.js": 96,
+                    "use-symbol-as-uid.js": 116,
+                    "iterate.js": 885,
+                    "is-array-iterator-method.js": 190,
+                    "iterators.js": 31,
+                    "get-iterator-method.js": 204,
+                    "classof.js": 435,
+                    "to-string-tag-support.js": 124,
+                    "iterator-close.js": 130,
+                    "string-pad.js": 378,
+                    "string-repeat.js": 280,
+                    "string-pad-webkit-bug.js": 145,
+                    "string-trim.js": 305,
+                    "whitespaces.js": 107,
+                    "string-trim-forced.js": 181,
+                    "define-well-known-symbol.js": 245,
+                    "well-known-symbol-wrapped.js": 64
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/base64.js": [
+      1808,
+      {
+        "node_modules": {
+          "meteor": {
+            "base64": {
+              "base64.js": 1488
+            }
+          }
+        }
+      }
+    ],
+    "packages/ejson.js": [
+      6775,
+      {
+        "node_modules": {
+          "meteor": {
+            "ejson": {
+              "ejson.js": 4765,
+              "stringify.js": 911,
+              "utils.js": 733
+            }
+          }
+        }
+      }
+    ],
+    "packages/diff-sequence.js": [
+      2872,
+      {
+        "node_modules": {
+          "meteor": {
+            "diff-sequence": {
+              "diff.js": 2505
+            }
+          }
+        }
+      }
+    ],
+    "packages/geojson-utils.js": [
+      5191,
+      {
+        "node_modules": {
+          "meteor": {
+            "geojson-utils": {
+              "main.js": 50,
+              "geojson-utils.js": 4805
+            }
+          }
+        }
+      }
+    ],
+    "packages/id-map.js": [
+      1156,
+      {
+        "node_modules": {
+          "meteor": {
+            "id-map": {
+              "id-map.js": 813
+            }
+          }
+        }
+      }
+    ],
+    "packages/random.js": [
+      3682,
+      {
+        "node_modules": {
+          "meteor": {
+            "random": {
+              "main_client.js": 305,
+              "AbstractRandomGenerator.js": 649,
+              "AleaRandomGenerator.js": 987,
+              "BrowserRandomGenerator.js": 232,
+              "createAleaGenerator.js": 669,
+              "createRandom.js": 378
+            }
+          }
+        }
+      }
+    ],
+    "packages/mongo-id.js": [
+      1693,
+      {
+        "node_modules": {
+          "meteor": {
+            "mongo-id": {
+              "id.js": 1324
+            }
+          }
+        }
+      }
+    ],
+    "packages/ordered-dict.js": [
+      3032,
+      {
+        "node_modules": {
+          "meteor": {
+            "ordered-dict": {
+              "ordered_dict.js": 2675
+            }
+          }
+        }
+      }
+    ],
+    "packages/tracker.js": [
+      4826,
+      {
+        "node_modules": {
+          "meteor": {
+            "tracker": {
+              "tracker.js": 4493
+            }
+          }
+        }
+      }
+    ],
+    "packages/minimongo.js": [
+      44692,
+      {
+        "node_modules": {
+          "meteor": {
+            "minimongo": {
+              "minimongo_client.js": 50,
+              "common.js": 12228,
+              "constants.js": 333,
+              "cursor.js": 4965,
+              "local_collection.js": 20168,
+              "matcher.js": 2684,
+              "minimongo_common.js": 210,
+              "observe_handle.js": 54,
+              "sorter.js": 3173
+            }
+          }
+        }
+      }
+    ],
+    "packages/check.js": [
+      6125,
+      {
+        "node_modules": {
+          "meteor": {
+            "check": {
+              "match.js": 5438,
+              "isPlainObject.js": 321
+            }
+          }
+        }
+      }
+    ],
+    "packages/retry.js": [
+      1048,
+      {
+        "node_modules": {
+          "meteor": {
+            "retry": {
+              "retry.js": 710
+            }
+          }
+        }
+      }
+    ],
+    "packages/callback-hook.js": [
+      1874,
+      {
+        "node_modules": {
+          "meteor": {
+            "callback-hook": {
+              "hook.js": 1533
+            }
+          }
+        }
+      }
+    ],
+    "packages/ddp-common.js": [
+      4583,
+      {
+        "node_modules": {
+          "meteor": {
+            "ddp-common": {
+              "namespace.js": 18,
+              "heartbeat.js": 1293,
+              "utils.js": 1377,
+              "method_invocation.js": 487,
+              "random_stream.js": 628
+            }
+          }
+        }
+      }
+    ],
+    "packages/reload.js": [
+      2692,
+      {
+        "node_modules": {
+          "meteor": {
+            "reload": {
+              "reload.js": 2372
+            }
+          }
+        }
+      }
+    ],
+    "packages/socket-stream-client.js": [
+      61252,
+      {
+        "node_modules": {
+          "meteor": {
+            "socket-stream-client": {
+              "browser.js": 2920,
+              "common.js": 2468,
+              "sockjs-1.6.1-min-.js": 54754,
+              "urls.js": 747
+            }
+          }
+        }
+      }
+    ],
+    "packages/ddp-client.js": [
+      24291,
+      {
+        "node_modules": {
+          "meteor": {
+            "ddp-client": {
+              "client": {
+                "client.js": 136,
+                "client_convenience.js": 852
+              },
+              "common": {
+                "MethodInvoker.js": 1146,
+                "livedata_connection.js": 20486,
+                "namespace.js": 875
+              }
+            }
+          }
+        }
+      }
+    ],
+    "packages/ddp.js": 78,
+    "packages/ddp-server.js": 30,
+    "packages/allow-deny.js": [
+      5828,
+      {
+        "node_modules": {
+          "meteor": {
+            "allow-deny": {
+              "allow-deny.js": 5327
+            }
+          }
+        }
+      }
+    ],
+    "packages/typescript.js": 30,
+    "packages/logging.js": [
+      3942,
+      {
+        "node_modules": {
+          "meteor": {
+            "logging": {
+              "logging.js": 3462,
+              "logging_browser.js": 53
+            }
+          }
+        }
+      }
+    ],
+    "packages/mongo.js": [
+      12067,
+      {
+        "node_modules": {
+          "meteor": {
+            "mongo": {
+              "local_collection_driver.js": 362,
+              "collection.js": 10561,
+              "mongo_utils.js": 346
+            }
+          }
+        }
+      }
+    ],
+    "packages/reactive-var.js": 818,
+    "packages/minifier-css.js": 66,
+    "packages/standard-minifier-css.js": 41,
+    "packages/standard-minifier-js.js": 40,
+    "packages/shell-server.js": 32,
+    "packages/static-html.js": 31,
+    "packages/akryum_vue-component.js": 40,
+    "packages/webapp.js": [
+      651,
+      {
+        "node_modules": {
+          "meteor": {
+            "webapp": {
+              "webapp_client.js": 317
+            }
+          }
+        }
+      }
+    ],
+    "packages/hot-code-push.js": 33,
+    "packages/launch-screen.js": 71,
+    "packages/autoupdate.js": [
+      3524,
+      {
+        "node_modules": {
+          "meteor": {
+            "autoupdate": {
+              "autoupdate_client.js": 1928,
+              "client_versions.js": 1117
+            }
+          }
+        }
+      }
+    ],
+    "app/global-imports.js": [
+      481,
+      {}
+    ],
+    "app/app.js": [
+      9442,
+      {
+        "imports": {
+          "ui": {
+            "components": {
+              "CategoryForm.vue": 10,
+              "CategoryTable.vue": 10,
+              "CustomerForm.vue": 10,
+              "CustomerTable.vue": 10,
+              "FormSearchByDate.vue": 10,
+              "ItemForm.vue": 10,
+              "ItemTable.vue": 10,
+              "PrintInvoice.vue": 29,
+              "PurchaseForm.vue": 19,
+              "PurchaseTable.vue": 10,
+              "SupplierForm.vue": 18,
+              "SupplierTable.vue": 2,
+              "UserForm.vue": 18,
+              "UserTable.vue": 18
+            },
+            "layouts": {
+              "AdminLayout.vue": 4871,
+              "PublicLayout.vue": 324
+            },
+            "pages": {
+              "Category.vue": 77,
+              "Customer.vue": 77,
+              "Export.vue": 47,
+              "Home.vue": 51,
+              "Import.vue": 58,
+              "Item.vue": 69,
+              "Login.vue": 2,
+              "Purchase.vue": 68,
+              "Sale.vue": 43,
+              "Supplier.vue": 68,
+              "User.vue": 60
+            },
+            "routes": {
+              "index.js": 1384
+            },
+            "App.vue": 768,
+            "plugins.js": 262
+          }
+        },
+        "client": {
+          "main.js": 323
+        }
+      }
+    ]
+  }
+}
